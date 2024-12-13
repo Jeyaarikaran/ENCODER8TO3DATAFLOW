@@ -33,8 +33,9 @@ Logical circuit of the above expressions is given below:
 ![image](https://github.com/naavaneetha/ENCODER8TO3DATAFLOW/assets/154305477/95acaee6-c873-4c75-89eb-ef09fb158053)
 
 Figure 02  Encoder 8 * 3
-Procedure
 
+Procedure
+```
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
@@ -44,7 +45,7 @@ Procedure
 4.Create nodes for inputs and outputs to generate the timing diagram.
 
 5.For different input combinations generate the timing diagram.
-
+```
 **PROGRAM**
 ```
 module exp5(a, b, c, y0, y1, y2, y3, y4, y5, y6, y7);
